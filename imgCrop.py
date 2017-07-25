@@ -1,6 +1,10 @@
 import argparse
 import cv2
 
+'''
+Script helps cropping from images by drawing rectangle in any direction !
+'''
+
 refPt = []
 refPtt = []
 cropping = False
